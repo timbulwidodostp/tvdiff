@@ -1,4 +1,6 @@
-D 'eventbaseline': Eventbaseline Correct event study after xthdidregress Use eventbaseline With STATA 19
+D 'tvdiff': Pre- and post-treatment estimation of the Average Treatment Effect (ATE) with binary time-varying treatment Use tvdiff With STATA 19
 D
-F eventbaseline.ado
-F eventbaseline.sthlp
+F coefplot.ado
+F coefplot.sthlp
+F tvdiff.ado
+F tvdiff.sthlp
